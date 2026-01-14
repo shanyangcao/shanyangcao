@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**shanyangcao/shanyangcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 # 🌟 用 0 和 1 创造新世界吧！
        .__                                        
@@ -29,4 +25,6 @@ _/ ___\|  |  \\__  \   / ___\|  |  \/     \|  |  \
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<!--
+**shanyangcao/shanyangcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
