@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 💼 方向：后端 
 - ☕ 喜欢写代码，也喜欢摸鱼
 - 🌱 正在学习：Java
-- 📫 CSDN：https://blog.csdn.net/nd20060725?type=blog
+- 📫 个人博客：https://shanyangcao.github.io/
 
 
 
