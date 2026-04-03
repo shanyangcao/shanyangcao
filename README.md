@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ## ✨ Motto
 > Keep coding, keep learning 🚀
 
-![snake gif](https://github.com/shanyangcao/shanyangcao/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/shanyangcao/shanyangcao/output/github-contribution-grid-snake.svg)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shanyangcao&show_icons=true&theme=tokyonight)
 
