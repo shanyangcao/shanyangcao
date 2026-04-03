@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## 🔗 我的链接
 [![Blog](https://img.shields.io/badge/Blog-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://shanyangcao.github.io/)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546706109008142?spm_id_from=333.1007.0.0)
-[![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=flat-square&logo=googlechrome)](https://blog.csdn.net/nd20060725?spm=1000.2115.3001.5343)
+[![CSDN](https://img.shields.io/badge/CSDN-Blog-FC5531?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.csdn.net/nd20060725)
 
 ---
 
