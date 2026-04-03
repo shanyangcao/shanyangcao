@@ -1,4 +1,4 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi+there+👋;Always+learning;Algorithm+Learner)](https://git.io/typing-svg)
 Here are some ideas to get you started:
 <!--
 **shanyangcao/shanyangcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shanyangcao&show_icons=true&theme=tokyonight)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi+there+👋;Backend+Developer;Algorithm+Learner)](https://git.io/typing-svg)
+
 
