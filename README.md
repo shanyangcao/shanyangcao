@@ -31,15 +31,6 @@ Here are some ideas to get you started:
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546706109008142?spm_id_from=333.1007.0.0)
 [![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=flat&logo=blogger&logoColor=white)](https://blog.csdn.net/nd20060725)
 
----
-
-## 🛠 技术栈
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## ✨ Motto
 > Keep coding, keep learning 🚀
