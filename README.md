@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🌱 正在学习：Java
 
 ## 🔗 我的链接
-[![Blog](https://img.shields.io/badge/Blog-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://shanyangcao.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://chagumu.site/)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546706109008142?spm_id_from=333.1007.0.0)
 [![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=flat&logo=blogger&logoColor=white)](https://blog.csdn.net/nd20060725)
 
